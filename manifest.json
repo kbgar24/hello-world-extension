@@ -12,5 +12,6 @@
     "default_icon": "icon16.png",
     "default_title": "Hello World",
     "default_popup": "popup.html"
-  }
+  },
+  "scripts": ["popup.js"]
 }
