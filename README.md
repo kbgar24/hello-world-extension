@@ -1,9 +1,9 @@
-#Hello World Chrome Extension
+# Hello World Chrome Extension
 
-###Overview
+### Overview
 A simple 'Hello World' introductory Chrome Extension that responds to user input within the extension popup.
 
-###Installation
+### Installation
 1. Clone/download repository
 2. Navigate to the Chrome Extensions page: chrome://extensions/
 3. Check the 'Developer Mode' checkbox at the top of the screen
